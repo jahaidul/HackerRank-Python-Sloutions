@@ -6,6 +6,3 @@ if n % 2 == 1 or n in range(5, 21):
 else:
     print("Not Weird")
 
-
-
-
