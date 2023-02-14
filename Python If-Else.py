@@ -7,5 +7,3 @@ else:
     print("Not Weird")
 
 
-
-
