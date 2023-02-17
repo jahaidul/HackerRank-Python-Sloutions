@@ -8,3 +8,6 @@ if __name__ == '__main__':
     query_name = input()
     res = sum(student_marks[query_name]) / len(student_marks[name])
     print("{:.2f}".format(res))
+
+
+
